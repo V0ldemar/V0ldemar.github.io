@@ -1,0 +1,21 @@
+body {
+    background: url("../img/logo.jpg") right top no-repeat fixed, url("../img/textur.png") repeat;
+    color: #FFFFFF;
+    font: 400 18px "Arial";
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+h1,
+h2,
+h3 {
+    font: bold 24px "times new roman";
+    color: #f5b3ec;
+}
+
+span {
+    font-style: italic;
+}
